@@ -18,7 +18,7 @@ Autopilot for the game Kerbal Space Program for flying from 'Kerbin to Eve' impl
 
 
 ### Программы 
-Программы для автопилота для полета с Кербина на Еву написаны на языке **Python** с использованием библиотеки **kRPC**
+Программы для автоматического полета с Кербина на Еву написаны на языке **Python** с использованием библиотеки **kRPC**
 - Программа главного файла [автопилота запускающего подпрограммы](KSP_proj.py)
 - Программа для [расчета времени ожидания до стартового окна и угла выхода с орбиты Кербина](KTE/angle_calculation.py)
 - Программа для [выхода на орбиту Кербина](KTE/orbital_launch.py)
@@ -29,6 +29,7 @@ Autopilot for the game Kerbal Space Program for flying from 'Kerbin to Eve' impl
 - Программа для [отображения уведомлений в консоль и вывода их в игре](KTE/notification.py)
   
 ### Ссылка на видеоотчет на YouTube
+https://youtu.be/hCJd05Th_CE
 
 
 

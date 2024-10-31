@@ -7,7 +7,7 @@ Contains:
 
 - angle_calculation.py,
     which helps calculate the time a spacecraft needs to wait in orbit
-    to reach the launch window
+    to reach the launch window and ejection angle
 - circularization.py,
     which helps to enter a circular orbit around Kerbin.
 - correction_node.py

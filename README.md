@@ -14,7 +14,7 @@ Autopilot for the game Kerbal Space Program for flying from 'Kerbin to Eve' impl
 
 ![image](https://github.com/user-attachments/assets/ef05902f-72da-44f2-bc5a-b74517cf9c03)
 
-Файл с моделью [ракеты](_KSP_project_rocket.craft)
+Файл с моделью [ракеты](rocket/_KSP_project_rocket.craft)
 
 
 ### Программы 
